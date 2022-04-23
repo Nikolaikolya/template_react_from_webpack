@@ -1,0 +1,29 @@
+{
+  "name": "template_react_from_webpack",
+  "version": "1.0.0",
+  "description": "Template React project by Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikolaikolya/template_react_from_webpack.git"
+  },
+  "keywords": [
+    "React",
+    "Typescript",
+    "Webpack",
+    "Babel",
+    "Eslint",
+    "Stylelint",
+    "Prettier",
+    "ReactRouter"
+  ],
+  "author": "Nikolaikolya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nikolaikolya/template_react_from_webpack/issues"
+  },
+  "homepage": "https://github.com/Nikolaikolya/template_react_from_webpack#readme"
+}
